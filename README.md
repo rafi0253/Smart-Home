@@ -1,5 +1,4 @@
-#Course Code: CSE 305
-#Course Title: Software Engineering
+
 #Project proposal: Smart Home Automation Mobile Application
 
 
