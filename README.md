@@ -1,6 +1,6 @@
-#Course Code: CSE 305
-#Course Title: Software Engineering
-#Project proposal: Smart Home Automation Mobile Application
+Course Code: CSE 305
+Course Title: Software Engineering
+Project proposal: Smart Home Automation Mobile Application
 
 
 ## Overview
@@ -139,13 +139,13 @@ This mobile application enables users to control and manage their smart home dev
 
 
 
-#Submitted By
+Submitted By
 Rafi Zubayer
 Student Id: 2002044
 Level:3 Semester:I
 
 
-#Submitted To
+Submitted To
 Pankaj Bhowmik
 Lecturer
 Department of Computer Science and Engineering,HSTU,Dinajpur
