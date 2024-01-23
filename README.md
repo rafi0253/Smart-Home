@@ -1,4 +1,4 @@
-![image](https://github.com/rafi0253/Smart-Home/assets/146814058/8069fea8-cf77-405b-b744-06fd7cc86ac0)
+![image](https://github.com/rafi0253/Smart-Home/assets/146814058/3e38d504-5b8c-4564-91c1-196e7380fa73)
 # Course Code: CSE 305
 # Course Title: Software Engineering
 # Project Proposal: Smart Home Automation Mobile Application
